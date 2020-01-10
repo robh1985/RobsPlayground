@@ -9,7 +9,7 @@
 
 ## PowerShell 5.1 Commands <a id="commands"></a>
 
-* [Get-Package](untitled-2.md)
-* [Find-Package](untitled-1.md)
-* [Install-Package](untitled.md)
+* [Get-Package](get-package.md)
+* [Find-Package](find-package.md)
+* [Install-Package](install-package.md)
 
